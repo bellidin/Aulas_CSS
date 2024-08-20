@@ -1,0 +1,25 @@
+/* alterando cor por nome */
+.nome{
+color: cornflowerblue;
+background-color: lightblue;
+}
+/* alterando cor por hexadecimal */
+.hexadecimal{
+    color: #6a9dab;
+    background-color: #c2f2ff;
+}
+/* alterando cor por RGBA */
+.rgba{
+    color: rgba(89, 131, 171, 1);
+    background-color: rgba(86, 120, 153, 0.48)
+}
+/* alterando a segunda página */
+.titulo-background{
+    background-color: #c91414;
+    text-align: center;
+}
+.div-background{
+    background-image: url(mickey.jpg);
+    height: 700px;
+    width: 1000px;
+}
